@@ -5,7 +5,6 @@
 
 I’m at the beginning of my journey in software development, currently focused on Java and building a strong foundation in programming logic, object-oriented programming, and clean code.
 
-I’m developing personal projects to practice, learn, and evolve every day as a future software engineer.
 ---
 
 ## 🌐 Where to find me
