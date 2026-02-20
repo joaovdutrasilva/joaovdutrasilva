@@ -54,9 +54,8 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark&hide=css" />
+<img src="https://streak-stats.demolab.com?user=joaovdutrasilva&theme=github-dark" />
 
-hide=css,html, java
 ---
 ## 🚀 Philosophy
 
