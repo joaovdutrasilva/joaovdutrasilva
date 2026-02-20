@@ -54,12 +54,14 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-## 💻 Most Used Languages
+## 📈 General Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovdutrasilva&show_icons=true&theme=github_dark&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark" />
 </p>
 
+---
 ## 🚀 Philosophy
 
 > _"Every expert was once a beginner.  
