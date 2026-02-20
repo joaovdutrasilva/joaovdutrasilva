@@ -13,7 +13,7 @@ I’m at the beginning of my journey in software development, currently focused 
   <a href="https://github.com/joaovdutrasilva">
     <img src="https://img.shields.io/badge/GitHub-JOAOVDUTRASILVA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="www.linkedin.com/in/joaodutra07hdgvsfvsdvfdsfb">
+  <a href="[www.linkedin.com/in/joaodutra07hdgvsfvsdvfdsfb](https://www.linkedin.com/in/joaodutra07hdgvsfvsdvfdsfb)">
     <img src="https://img.shields.io/badge/LinkedIn-João silva-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
