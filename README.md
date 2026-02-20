@@ -54,7 +54,17 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-<img src="https://streak-stats.demolab.com?user=joaovdutrasilva&theme=github-dark" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 ## 🚀 Philosophy
