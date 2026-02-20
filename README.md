@@ -54,13 +54,7 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-## 📈 General Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovdutrasilva&show_icons=true&theme=github_dark&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark&hide=css" />
 ---
 ## 🚀 Philosophy
 
