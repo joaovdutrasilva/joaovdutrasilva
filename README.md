@@ -54,10 +54,10 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-## 💻 Language Usage Statistics
+## 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=donut&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovdutrasilva&layout=compact&theme=github_dark&langs_count=8" />
 </p>
 
 ## 🚀 Philosophy
