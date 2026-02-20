@@ -54,7 +54,7 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovdutrasilva)](https://github.com/joaovdutrasilva/github-readme-stats)
+<img src="https://streak-stats.demolab.com?user=joaovdutrasilva&theme=github-dark" />
 
 ---
 ## 🚀 Philosophy
