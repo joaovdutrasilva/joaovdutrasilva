@@ -53,6 +53,10 @@ I’m at the beginning of my journey in software development, currently focused 
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide)
 
 ---
+
+## 📊 GitHub Stats <p align="left"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" /> </p> 
+
+---
 ## 🚀 Philosophy
 
 > _"Every expert was once a beginner.  
