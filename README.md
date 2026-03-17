@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Silva
+# Hi, I'm João Silva
 
 🚀 **Software Engineering Student | Java Developer**  
 🇧🇷 Brazil
@@ -22,15 +22,15 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ## 🧠 What I do
 
-- 📚 Studying Software Engineering
-- ☕ Learning Java and Object-Oriented Programming
-- 🧩 Practicing problem-solving and clean code
-- 🛠️ Building small and medium Java projects
-- 🌱 Constantly improving my technical skills
+- Studying Software Engineering
+- Learning Java and Object-Oriented Programming
+- Practicing problem-solving and clean code
+- Building small and medium Java projects
+- Constantly improving my technical skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
