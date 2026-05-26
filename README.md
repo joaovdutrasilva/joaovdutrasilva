@@ -1,13 +1,13 @@
 # Hi, I'm João Silva
 
-🚀 **Computer Engineering Student | Java Developer**  
+**Computer Engineering Student | Java Developer**  
 🇧🇷 Brazil
 
 I’m at the beginning of my journey in software development, currently focused on Java and building a strong foundation in programming logic, object-oriented programming, and clean code.
 
 ---
 
-## 🌐 Where to find me
+## Where to find me
 
 <p align="left">
   <a href="https://github.com/joaovdutrasilva">
@@ -20,7 +20,7 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-## 🧠 What I do
+## What I do
 
 - Studying Computer Engineering & IA
 - Learning Java and Object-Oriented Programming
@@ -54,7 +54,7 @@ I’m at the beginning of my journey in software development, currently focused 
 
 ---
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="left">
   <img
@@ -69,7 +69,7 @@ I’m at the beginning of my journey in software development, currently focused 
 </p>
 
 ---
-## 🚀 Philosophy
+## Philosophy
 
 > _"Every expert was once a beginner.  
 > Consistency and discipline turn learning into mastery."_
